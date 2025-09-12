@@ -30,6 +30,12 @@ load_data.ipynb: A Jupyter Notebook that demonstrates how to connect to a MySQL 
 
 train_ml_pkl.ipynb: A Jupyter Notebook that reads data from MySQL, trains several machine learning models, and saves the best-performing model to bigmart_best_model.pkl.
 
+============================================================
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/4f991e8c-2f20-429b-95e5-6c5113fdefa3" />
+
+============================================================
+
 Technologies Used
 Python: The core programming language.
 
