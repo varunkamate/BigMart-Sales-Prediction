@@ -45,6 +45,9 @@ Jupyter Notebook: For exploratory data analysis and model training.
 
 Pickle: For serializing the trained model.
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/6f73a0ad-77aa-451d-9fe2-d9e483cb0d9d" />
+
+
 How to Run
 Set up MySQL: Ensure you have a MySQL server running locally.
 
