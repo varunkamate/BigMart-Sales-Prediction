@@ -4,31 +4,6 @@ This project presents a complete end-to-end machine learning solution for predic
 
 App live link:=> https://bigmart-sales-prediction-euwesqnogzruwunhjsptxv.streamlit.app/
 
-```mermaid
-graph TD
-    subgraph Data Flow
-        A[XML Data Files] --> B[Jupyter Notebook: load_data.ipynb];
-        B --> C[MySQL Database: BigMart];
-    end
-
-    subgraph Model Pipeline
-        C --> D[Jupyter Notebook: train_ml_pkl.ipynb];
-        D --> E[Pickled Model: bigmart_best_model.pkl];
-    end
-
-    subgraph Deployment
-        E --> F[Streamlit App: app.py];
-        F --> G[Web Browser User Interface];
-    end
-    
-    style A fill:#e6f3ff,stroke:#66a3ff,stroke-width:2px,rx:5px,ry:5px
-    style B fill:#e6f3ff,stroke:#66a3ff,stroke-width:2px,rx:5px,ry:5px
-    style C fill:#ffe6e6,stroke:#ff8080,stroke-width:2px,rx:5px,ry:5px
-    style D fill:#e6f3ff,stroke:#66a3ff,stroke-width:2px,rx:5px,ry:5px
-    style E fill:#d1ffcc,stroke:#85e085,stroke-width:2px,rx:5px,ry:5px
-    style F fill:#fff0b3,stroke:#ffcc00,stroke-width:2px,rx:5px,ry:5px
-    style G fill:#f2e6ff,stroke:#b366ff,stroke-width:2px,rx:5px,ry:5px
-
 Key Features
 End-to-End ML Pipeline: A structured workflow that handles data from ingestion to model deployment.
 
