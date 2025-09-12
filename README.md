@@ -53,3 +53,17 @@ Load Data: Execute the load_data.ipynb notebook to create the database and load 
 Train Model: Run the train_ml_pkl.ipynb notebook to train the machine learning model and save it.
 
 Launch App: Run the Streamlit application from your terminal using streamlit run app.py.
+
+OUTPUT SCREENSHOTS:==>
+
+============================================================
+
+<img width="1912" height="850" alt="Screenshot 2025-09-12 124213" src="https://github.com/user-attachments/assets/5d3f7bed-58c3-4290-9b64-183bd214fd21" />
+
+============================================================
+
+<img width="295" height="810" alt="Screenshot 2025-09-12 124227" src="https://github.com/user-attachments/assets/b9c134b0-ba2b-445d-bb10-fc8527356a12" />
+
+============================================================
+
+<img width="971" height="523" alt="Screenshot 2025-09-12 124240" src="https://github.com/user-attachments/assets/9fda7457-6485-4230-a182-a869bf2429f2" />
