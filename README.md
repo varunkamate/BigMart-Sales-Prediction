@@ -32,7 +32,7 @@ train_ml_pkl.ipynb: A Jupyter Notebook that reads data from MySQL, trains severa
 
 ============================================================
 
-#ARCHITECTURE FLOW
+ARCHITECTURE FLOW
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/4f991e8c-2f20-429b-95e5-6c5113fdefa3" />
 
