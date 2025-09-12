@@ -2,6 +2,8 @@
 
 This project presents a complete end-to-end machine learning solution for predicting item sales at various BigMart outlets. The solution encompasses data loading, a robust machine learning pipeline, and a user-friendly web application for real-time sales predictions.
 
+App live link:=> https://bigmart-sales-prediction-euwesqnogzruwunhjsptxv.streamlit.app/
+
 Key Features
 End-to-End ML Pipeline: A structured workflow that handles data from ingestion to model deployment.
 
