@@ -108,3 +108,4 @@ if st.button("Predict Sales", help="Click to get the sales prediction"):
 
     except Exception as e:
         st.error(f"An error occurred during prediction: {e}")
+
